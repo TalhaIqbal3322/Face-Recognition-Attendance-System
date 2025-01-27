@@ -1,0 +1,10 @@
+streamlit
+opencv-python-headless
+numpy
+pandas
+face_recognition
+pillow
+plotly
+sqlite3
+cmake
+dlib
