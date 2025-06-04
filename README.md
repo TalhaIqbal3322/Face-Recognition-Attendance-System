@@ -45,7 +45,7 @@ smart-attendance-system/
 ----
 📥 How to Run
 ----
-git clone https://github.com/yourusername/smart-attendance-system.git
+git clone https://github.com/TalhaIqbal3322/smart-attendance-system.git
 
 cd smart-attendance-system
 
