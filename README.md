@@ -27,12 +27,19 @@ An advanced, real-time, and user-friendly attendance management solution built w
 ## 📂 Folder Structure
 
 smart-attendance-system/
+
 ├── app.py # Main Streamlit application
+
 ├── encodings/ # Encoded facial data
+
 ├── data/ # Attendance records and user info
+
 ├── images/ # User facial images
+
 ├── utils/ # Helper functions and logic
+
 ├── requirements.txt # Required Python packages
+
 └── README.md # Project documentation
 
 ----
